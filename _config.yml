@@ -24,9 +24,9 @@ plugins:
 url: 'https://pennneutrinos.github.io'
 baseurl: '/hybrid-workshop-2025'
 title: 'Workshop on Hybrid Cherenkov/Scintillation Detection Technologies – June 3–5, 2025'
-description: 'Workshop on Hybrid Cherenkov/Scintillation Detection Technologies – June 3–5, 2025'
+description: 'June 3–5, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/assets/penn_shield.png"
 
 # Pagination
 paginate: 5

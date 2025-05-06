@@ -1,11 +1,14 @@
 ---
-title: Welcome to my website
+title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
 ---
 
 June 3–5, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
+
+* TOC
+{:toc}
 
 
 About the Workshop

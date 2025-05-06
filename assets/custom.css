@@ -1,0 +1,17 @@
+/* Wrap the .page-header with a white overlay using a pseudo-element */
+body.homepage-overlay .page-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.6); /* white with 60% opacity */
+  z-index: 1;
+}
+
+/* Ensure the text is above the overlay */
+body.homepage-overlay .page-header .wrapper {
+  position: relative;
+  z-index: 2;
+}

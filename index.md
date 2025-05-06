@@ -22,7 +22,7 @@ Location & Directions
 **Venue:** David Rittenhouse Laboratories, Room A4  
 **Address:** 209 South 33rd Street, Philadelphia, PA 19104
 
-[Google Maps & Directions](https://goo.gl/maps/YourMapLinkHere)
+[Google Maps & Directions](https://maps.app.goo.gl/LgscgJR8hxxyus1q9)
 
 Parking
 -------
@@ -32,7 +32,7 @@ Parking is available at the Penn Park Garage (3401 Walnut St) and nearby street 
 Where to Get Lunch
 ------------------
 
-Several cafes and food trucks are a short walk away on Walnut Street. See the [Campus Dining Map](#) for details.
+Several cafes and food trucks are a short walk away on Walnut Street. See the [This page](./dinning/) for details.
 
 Hotels & Dining
 ---------------

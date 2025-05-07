@@ -8,10 +8,16 @@ page_class: homepage-overlay
 
 page_class: homepage-overlay
 ---
+<style>
+  /* Slide the feature image down so Ben’s head is visible */
+  .page.homepage-overlay .feature {
+    background-position: center 65% !important;
+    background-size: cover; /* ensure it still covers the area */
+  }
+</style>
 
 
-
-June 3–X, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
+June 3–Y, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
 
 
 * TOC

@@ -44,7 +44,7 @@ Parking is available at the Penn Park Garage (3401 Walnut St) and nearby street 
 Where to Get Lunch
 ------------------
 
-Several cafes and food trucks are a short walk away on Walnut Street. See the [This page](./dinning/) for details.
+Several cafes and food trucks are a short walk away on Walnut Street. See the [This page](./dining/) for details.
 
 Hotels & Dining
 ---------------

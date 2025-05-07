@@ -12,7 +12,7 @@ Food near conference venue/hotel
 - **DIG**: basic lunch in assembly line style. <u>140 S 36th St, Philadelphia, PA 19104</u>
 - **Lemon Grass Thai**: Thai style cuisine restaurant. <u>3131 Walnut St, Philadelphia, PA 19104</u>
 
-## Dinner options near hotel:
+## Dinner options in Center City:
 
 - **DanDan Rittenhouse**: Sichuan/Taiwanese specialties restaurant. <u>126 S 16th St, Philadelphia, PA 19102</u>
 - **Ambrosia**: Great Italian, BYOB: <u>231 S 24th St, Philadelphia, PA 19103</u>
@@ -20,13 +20,6 @@ Food near conference venue/hotel
 - **Cleavers**: Philly Cheesesteak: <u>108 S 18th St, Philadelphia, PA 19103</u>
 - **Black Sheep Pub & Restaurant**: <u>247 S 17th St, Philadelphia, PA 19103</u>
 
-## Regional Delicacies:
-
-- **Wawa**: Iconic convenience store in the Pennsylvania / New Jersey region. We recommend sampling the “Sizzlis”.
-- **Starbucks**: Piping hot coffee roasted to perfection. We recommend the “pike place roast”.
-- **Dunkin’ Donuts**: Sugars of various complexity. We recommend the “wake-up wrap”.
-- **Shake Shack**: Hamburgers, hot dogs and milkshakes. We recommend the “SmokeShack”.
-- **Philly Pretzel Factory**: Variations on traditional German pretzels. We recommend the “pretzel dog”.  
 
 ## Philly Cheesesteak (at your own risk)
 

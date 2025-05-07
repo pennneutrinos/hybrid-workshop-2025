@@ -1,22 +1,13 @@
 ---
 title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
-
+title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
+feature_image: "./assets/ben_on_a_bench_crop.png"
+feature_image_position: "center 45%"
+page_class: homepage-overlay
 
 
 page_class: homepage-overlay
 ---
-<!-- manual hero override: remove the theme’s auto-feature -->
-<div class="feature"
-     style="
-       background-image: url('./assets/ben_on_a_bench_crop.png');
-       background-position: center 45%;
-       background-size: cover;
-       height: 400px;
-       margin-bottom: 2rem;
-     ">
-  <div class="container typeset" style="color: white; text-align: center; padding-top: 120px;">
-  </div>
-</div>
 
 
 

@@ -1,9 +1,7 @@
 ---
 title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
-title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
 feature_image: "./assets/ben_on_a_bench_crop.png"
 feature_image_position: "center 65%"
-page_class: homepage-overlay
 
 
 page_class: homepage-overlay
@@ -17,7 +15,7 @@ page_class: homepage-overlay
 </style>
 
 
-June 3–Y, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
+June 3–Z, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
 
 
 * TOC

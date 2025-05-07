@@ -1,8 +1,6 @@
 ---
 title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
 feature_image: "./assets/ben_on_a_bench_crop.png"
-feature_image_position: "center 45%"
-
 
 
 
@@ -11,7 +9,7 @@ page_class: homepage-overlay
 <style>
   /* Slide the feature image down so Ben’s head is visible */
   .page.homepage-overlay .feature {
-    background-position: center 45% !important;
+    background-position: center 55% !important;
     background-size: cover; /* ensure it still covers the area */
   }
 </style>

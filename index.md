@@ -13,6 +13,13 @@ page_class: homepage-overlay
     background-size: contain; /* ensure it still covers the area */
   }
 </style>
+<style>
+  /* Change the banner's background color */
+  .page.homepage-overlay .page-header {
+      background-color: #007BFF; /* A blue color */
+      color: white; /* Optional: Change text to white for better contrast */
+  }
+</style>
 
 
 June 3–R, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania

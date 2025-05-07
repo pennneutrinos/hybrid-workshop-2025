@@ -1,6 +1,6 @@
 ---
 title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
-feature_image: "./assets/philly.png"
+feature_image: "./assets/ben_on_a_bench_crop2.png"
 feature_image_position: "center 65%"
 
 

@@ -8,7 +8,13 @@ feature_image_position: "center 45%"
 
 page_class: homepage-overlay
 ---
-
+<style>
+  /* Slide the feature image down so Ben’s head is visible */
+  .page.homepage-overlay .feature {
+    background-position: center 45% !important;
+    background-size: cover; /* ensure it still covers the area */
+  }
+</style>
 
 
 June 3–5, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania

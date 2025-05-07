@@ -9,8 +9,8 @@ page_class: homepage-overlay
 <style>
   /* Slide the feature image down so Ben’s head is visible */
   .page.homepage-overlay .feature {
-    background-position: center 65% !important;
-    background-size: cover; /* ensure it still covers the area */
+    background-position: center center !important;
+    background-size: contain; /* ensure it still covers the area */
   }
 </style>
 

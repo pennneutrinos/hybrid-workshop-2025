@@ -8,6 +8,7 @@ feature_text:
 
 page_class: homepage-overlay
 ---
+
 <!-- *NOW* we are in the *body*, so it’s safe to put raw HTML/CSS: -->
 <style>
   /* shift the background so Ben’s head is visible */

@@ -1,5 +1,5 @@
 ---
-title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
+title: 
 feature_image: "./assets/penn.png"
 feature_text: |
   ## Workshop on Hybrid Cherenkov/Scintillation Detection Technologies

@@ -2,6 +2,9 @@
 title: false
 styles: true
 ---
+$backgroundColour: #f0f0f0; // Light grey color
 
-$backgroundColour: #ffcccc; // Light red background for testing
+body {
+  background-color: $backgroundColour;
+}
 @import "alembic";

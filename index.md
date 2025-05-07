@@ -15,7 +15,7 @@ page_class: homepage-overlay
 </style>
 
 
-June 3–Q, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
+June 3–R, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
 
 
 * TOC

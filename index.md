@@ -1,18 +1,25 @@
 ---
 title: Workshop on Hybrid Cherenkov/Scintillation Detection Technologies
-feature_image: "./assets/ben_on_a_bench.png"
 feature_text:
+<div style="height:400px; overflow:hidden; position:relative; margin-bottom:2rem;">
+  <img
+    src="./assets/ben_on_a_bench.png"
+    alt="Ben on a Bench"
+    style="
+      position:absolute;
+      top:-20%;      /* move the image up 20% of its height */
+      left:0;
+      width:100%;
+      object-fit:cover;
+    "
+  >
+</div>
 
 
 
 page_class: homepage-overlay
 ---
-<style>
-  /* push the background up so we see Ben’s head */
-  .homepage-overlay .hero {
-    background-position: center 25% !important;
-  }
-</style>
+
 
 June 3–5, 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania
 

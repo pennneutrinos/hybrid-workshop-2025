@@ -15,8 +15,6 @@ page_class: homepage-overlay
        margin-bottom: 2rem;
      ">
   <div class="container typeset" style="color: white; text-align: center; padding-top: 120px;">
-    <h1>Workshop on Hybrid Cherenkov/Scintillation Detection Technologies</h1>
-    <p>June 3–5 2025 · David Rittenhouse Laboratories, Room A4 · University of Pennsylvania</p>
   </div>
 </div>
 
